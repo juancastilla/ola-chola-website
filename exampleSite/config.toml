@@ -145,12 +145,12 @@ home = ["HTML"]
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "info@olachola.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Kiama, Australia"
 logo = "/images/logo-olacholaimg_bw-1.png"
 logo_width = "50px"
-mobile = "0124857985320"
+mobile = "0413747527"
 multi_author = false
 [params.gmap]
 enable = true

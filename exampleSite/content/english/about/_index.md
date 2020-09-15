@@ -1,6 +1,6 @@
 ---
 title: About Ola Chola
-description: this is meta description
+description: probando texto
 bg_image: images/featue-bg.jpg
 
 ---

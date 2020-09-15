@@ -8,6 +8,6 @@ description: We are a family-owned and operated business in Kiama, NSW. Ola Chol
   available as well as supporting our local farmers by sourcing our produce locally
   when possible. We offered live cook Paella in your comfort of your own home or booked
   event.  Sit back and relax and let us do the cooking for you.
-bg_image: images/featue-bg.jpg
+bg_image: images/logo-olacholaimg-1.png
 
 ---
